@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of letop 2026 VibeChord",
+  "description": "Interactive guitar chord studio. Create progressions, transcribe audio with AI, and use a professional tuner. Featuring real-time chord vibrations and backing tracks.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
